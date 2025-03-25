@@ -33,9 +33,7 @@ Open index.html in your browser to view the project.
 Usage
 Once opened in the browser, you can start adding tasks to the task bar. The interface is simple and intuitive, allowing for easy task management.
 
-Contributing
-Feel free to fork the repository and submit pull requests. Contributions are always welcome!
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
